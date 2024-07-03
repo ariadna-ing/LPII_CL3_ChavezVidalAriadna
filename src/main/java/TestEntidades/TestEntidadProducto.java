@@ -13,15 +13,15 @@ public class TestEntidadProducto {
 		ClassProductoImp crud=new ClassProductoImp();
 				//asignamos valores
 		//asignamos valore
-	/*		productocl3.setNombrecl3("leche");
+	/*		productocl3.setNombrecl3("aceite");
 			productocl3.setPrecioventacl3(10.5);
 			productocl3.setPreciocompcl3(18.8);
-			productocl3.setEstadocl3("nueva");
-			productocl3.setDescripcl3("fresca");
+			productocl3.setEstadocl3("vig.");
+			productocl3.setDescripcl3("oferta");
 			
 			//invocamos al metodo registrar...
 			crud.RegistrarProducto(productocl3);
-	*/		
+	*/
 			//testeamos el metodo listado
 			List<TblProductocl3> listado=crud.ListadoProducto();
 			//aplicamos un bucle for...
@@ -33,7 +33,7 @@ public class TestEntidadProducto {
 						+" estado "+lis.getEstadocl3()+" descripcion"+lis.getDescripcl3());
 			}
 			
-			
+		
 			
 
 		}   //fin del metodo main...

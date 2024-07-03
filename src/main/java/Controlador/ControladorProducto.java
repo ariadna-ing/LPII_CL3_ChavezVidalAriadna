@@ -130,7 +130,7 @@ public class ControladorProducto extends HttpServlet {
 				}else{	
 				//invocamos la metodo registrar...
 				crud.RegistrarProducto(productocl3);
-				//actualizador listado de clientes
+				//actualizador listado de productos
 				listadoproducto=crud.ListadoProducto();
 				
 				} //fin del else...

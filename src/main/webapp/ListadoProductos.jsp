@@ -18,7 +18,7 @@
 <h1  align="center">Listado de Productos Registrados en BD</h1>
 
 <h2 align="center">
-<a href="FormRegistrarCliente.jsp" style="text-decoration: none;color:blue;">Registrar Cliente</a>
+<a href="FormRegistrarProducto.jsp" style="text-decoration: none;color:blue;">Registrar Producto</a>
 </h2>
 <table border="2" align="center">
 

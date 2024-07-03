@@ -15,7 +15,7 @@
 <title>Listado de Productos</title>
 </head>
 <body bgcolor="#c5dec9">
-<h1  align="center">Listado de Productos Registrados en BD</h1>
+<h1  align="center">Listado de Productos Registrados  en BD</h1>
 
 <h2 align="center">
 <a href="FormRegistrarProducto.jsp" style="text-decoration: none;color:blue;">Registrar Producto</a>
